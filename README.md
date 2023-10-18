@@ -4,7 +4,7 @@
 <!-- profile views -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samiralibabic&label=Profile%20views&color=0e75b6&style=flat" alt="samiralibabic" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samiralibabic&margin-w=15&margin-h=15" alt="samiralibabic" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samiralibabic&margin-w=15&margin-h=15&column=4" alt="samiralibabic" /></a> </p>
 
 [![X](https://img.shields.io/twitter/follow/samiralibabic.svg?label=Follow%20@samiralibabic)](https://x.com/samiralibabic)
 
