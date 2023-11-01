@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **anything.**
 
-- 📫 How to reach me **samir.alibabic@gmail.com**
+- 📫 How to reach me **samir.alibabic AT gmail.com**
 
 - 📄 Know about my experiences [https://www.samiralibabic.com](https://www.samiralibabic.com)
 
