@@ -9,10 +9,6 @@
 [![X](https://img.shields.io/twitter/follow/samiralibabic.svg?label=Follow%20@samiralibabic)](https://x.com/samiralibabic)
 
 
-- 📝 I <span style="text-decoration: line-through;">regularly</span> write articles on [https://samiralibabic.hashnode.dev/](https://samiralibabic.hashnode.dev/)
-
-- 💬 Ask me about **anything.**
-
 - 📫 How to reach me **samir.alibabic AT gmail.com**
 
 - 📄 Know about my experiences [https://www.samiralibabic.com](https://www.samiralibabic.com)
