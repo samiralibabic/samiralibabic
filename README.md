@@ -10,8 +10,8 @@
 │  $ ls -la products/                                                         │
 │  > PrintOnDemandBusiness/  Tierarzt-Liste/  Print2Social/                   │
 │                                                                             │
-│  $ cat stack.txt                                                            │
-│  > TypeScript • React • Next.js • Postgres • Docker • Cloudflare            │
+  │  $ cat stack.txt                                                            │
+  │  > Whatever gets the job done (AI-generated & human-verified)               │
 │                                                                             │
 │  $ ./build.sh                                                               │
 │  > Building scalable products... ✓                                          │
