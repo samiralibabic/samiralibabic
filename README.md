@@ -10,8 +10,8 @@
 │  $ ls -la products/                                                         │
 │  > PrintOnDemandBusiness/  Tierarzt-Liste/  Print2Social/                   │
 │                                                                             │
-  │  $ cat stack.txt                                                            │
-  │  > Whatever gets the job done (AI-generated & human-verified)               │
+│  $ cat stack.txt                                                            │
+│  > Whatever gets the job done (AI-generated & human-verified)               │
 │                                                                             │
 │  $ ./build.sh                                                               │
 │  > Building scalable products... ✓                                          │
