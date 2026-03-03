@@ -74,16 +74,22 @@ If you want to partner, integrate, or sponsor: please start on the website (cont
 
 ---
 
-## Stack (pragmatic)
-
+## Stack
 <pre>
-┌─────────────────────────────────────────────────────────────────────────────┐
-│  ~ $ neofetch                                                               │
-├─────────────────────────────────────────────────────────────────────────────┤
-│                                                                             │
-│      ⚡ TypeScript    🚀 Next.js       🐘 Postgres                         │
-│      🌐 JavaScript    ⚛️  React        🐳 Docker                           │
-│      ☁️  Cloudflare  🎨 Tailwind       📦 Prisma                           │
-│                                                                             │
-└─────────────────────────────────────────────────────────────────────────────┘
+┌─────────────────────────────────────────────────────────────────────────────────┐
+│  ~ $ reveal_approach                                                 │  ● ● ●   │
+├─────────────────────────────────────────────────────────────────────────────────┤
+│                                                                                 │
+│  [SCOPE]     🧭 Domains      SaaS • Data Systems • Automation • AI Ops          │
+│  [THINK]     🧠 Approach     Systems first • Interfaces second                  │
+│  [DESIGN]    🏗 Principle    Simple by default • Composable when needed         │
+│  [BUILD]     🔨 Capability   Products • Pipelines • Internal tools              │
+│  [OPERATE]    ⚙ Execution    Deployable • Observable • Maintainable             │
+│  [AUTOMATE]  🤖 Leverage     Agents • Workflows • Local-first AI                │
+│  [RESULT]    ✅ Outcome      Useful software that survives contact with reality │
+│                                                                                 │
+│  ─────────────────────────────────────────────────────────────────────────────  │
+│  [MODE]      ⌁ Runtime       Editor • Shell • Containers • APIs • Databases     │
+│                                                                                 │
+└─────────────────────────────────────────────────────────────────────────────────┘
 </pre>
