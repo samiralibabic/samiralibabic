@@ -8,7 +8,7 @@
 │  > Samir Alibabic - Software Engineer & Solo Founder                        │
 │                                                                             │
 │  $ ls -la products/                                                         │
-│  > PrintOnDemandBusiness/  Tierarzt-Liste/  MachDuDas/                   │
+│  > PrintOnDemandBusiness/  Tierarzt-Liste/  MachDuDas/                      │
 │                                                                             │
 │  $ cat stack.txt                                                            │
 │  > Whatever gets the job done (AI-generated & human-verified)               │
