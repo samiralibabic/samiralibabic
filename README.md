@@ -5,16 +5,16 @@
 ├─────────────────────────────────────────────────────────────────────────────┤
 │                                                                             │
 │  $ whoami                                                                   │
-│  > Samir Alibabic - founder/operator building software products             │
+│  > Samir Alibabic - software engineer, founder/operator                     │
 │                                                                             │
-│  $ ls products/live                                                         │
-│  > PrintOnDemandBusiness/  Tierarzt-Liste/  Machdudas/                      │
+│  $ current                                                                  │
+│  > Building focused internet businesses from Munich.                         │
 │                                                                             │
-│  $ ls lab/agent-infra                                                       │
-│  > rexd/  opencode-rexd-target/  cognitive-microkernel/                     │
+│  $ start                                                                    │
+│  > https://www.samiralibabic.com                                             │
 │                                                                             │
-│  $ cat mode.txt                                                             │
-│  > Ship small, useful systems. Measure reality. Iterate.                    │
+│  $ mode                                                                     │
+│  > Ship small, useful systems. Measure reality. Iterate.                     │
 │                                                                             │
 └─────────────────────────────────────────────────────────────────────────────┘
 </pre>
@@ -24,7 +24,7 @@
 
 <p align="center">
   <b>Software engineer, founder/operator, Munich</b><br/>
-  I build and run focused software products across directories, data systems, automation, and AI-assisted workflows.
+  Building things on the Internet.
 </p>
 
 <p align="center">
@@ -51,52 +51,9 @@
   <img src="https://img.shields.io/github/last-commit/samiralibabic/samiralibabic?label=profile%20updated&style=flat" alt="updated" />
 </p>
 
----
-
-## What I Build
-
-I like businesses where code, data, search, and distribution reinforce each other. Most of my work is practical: directories, internal tools, crawlers, automation, remote execution, and AI workflows that make small teams more capable.
-
-### Live Products
-
-| Product | What it does | Link |
-| --- | --- | --- |
-| Print On Demand Business | Directory for comparing print-on-demand suppliers by products, print methods, integrations, shipping regions, and facilities. | [printondemandbusiness.com](https://www.printondemandbusiness.com) |
-| Tierarzt-Liste | Veterinary directory for Germany with local discovery and emergency-focused information. | [tierarzt-liste.de](https://tierarzt-liste.de) |
-| Machdudas | German marketplace for home-office jobs, remote jobs, and services. | [machdudas.de](https://www.machdudas.de) |
-
-### Open Source / Lab
-
-| Project | Focus | Link |
-| --- | --- | --- |
-| REXD | Lightweight remote execution and filesystem plane for agentic runtimes. | [samiralibabic/rexd](https://github.com/samiralibabic/rexd) |
-| opencode-rexd-target | OpenCode plugin for routing tools to remote REXD targets over SSH. | [samiralibabic/opencode-rexd-target](https://github.com/samiralibabic/opencode-rexd-target) |
-| opencode-session-navigation | Vim-like navigation mode for the OpenCode TUI session view. | [samiralibabic/opencode-session-navigation](https://github.com/samiralibabic/opencode-session-navigation) |
-| cognitive-microkernel | Experimental stateless cortex coordinating persistent LLM-backed organs. | [samiralibabic/cognitive-microkernel](https://github.com/samiralibabic/cognitive-microkernel) |
-
----
-
-## Current Focus
-
-<pre>
-┌─────────────────────────────────────────────────────────────────────────────────┐
-│  ~ $ reveal_focus                                                              │
-├─────────────────────────────────────────────────────────────────────────────────┤
-│                                                                                 │
-│  [PRODUCTS]   PODB, Tierarzt-Liste, Machdudas: search, UX, proof, monetization  │
-│  [GROWTH]     Sponsor inventory, buyer/seller flows, landing pages, experiments │
-│  [AGENTS]     REXD, OpenCode plugins, remote tools, PTYs, filesystem access      │
-│  [DATA]       Crawlers, change monitors, structured datasets, analytics loops    │
-│  [OPS]        Small releases, boring deployments, observable systems             │
-│                                                                                 │
-└─────────────────────────────────────────────────────────────────────────────────┘
-</pre>
-
----
-
 ## Work With Me
 
-If you want to use a product, sponsor a placement, discuss a deal, or collaborate on agent infrastructure, start here:
+If you want to use a product, sponsor a placement, discuss a deal, or collaborate, start here:
 
 - Website: [samiralibabic.com](https://www.samiralibabic.com)
 - Products: [samiralibabic.com/products](https://www.samiralibabic.com/products)
