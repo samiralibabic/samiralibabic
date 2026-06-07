@@ -1,20 +1,20 @@
 <p align="center">
 <pre>
 ┌─────────────────────────────────────────────────────────────────────────────┐
-│  ~/dev/samiralibabic                                                       │
+│  ~/dev/samiralibabic                                                        │
 ├─────────────────────────────────────────────────────────────────────────────┤
 │                                                                             │
 │  $ whoami                                                                   │
 │  > Samir Alibabic - software engineer, founder/operator                     │
 │                                                                             │
 │  $ current                                                                  │
-│  > Building focused internet businesses from Munich.                         │
+│  > Building focused internet businesses from Munich.                        │
 │                                                                             │
 │  $ start                                                                    │
-│  > https://www.samiralibabic.com                                             │
+│  > https://www.samiralibabic.com                                            │
 │                                                                             │
 │  $ mode                                                                     │
-│  > Ship small, useful systems. Measure reality. Iterate.                     │
+│  > Ship small, useful systems. Measure reality. Iterate.                    │
 │                                                                             │
 └─────────────────────────────────────────────────────────────────────────────┘
 </pre>
