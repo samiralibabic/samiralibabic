@@ -1,20 +1,20 @@
 <p align="center">
 <pre>
 ┌─────────────────────────────────────────────────────────────────────────────┐
-│  ~/dev/samiralibabic                                             │  ● ● ●   │
+│  ~/dev/samiralibabic                                                       │
 ├─────────────────────────────────────────────────────────────────────────────┤
 │                                                                             │
 │  $ whoami                                                                   │
-│  > Samir Alibabic - Software Engineer & Solo Founder                        │
+│  > Samir Alibabic - founder/operator building software products             │
 │                                                                             │
-│  $ ls -la products/                                                         │
-│  > PrintOnDemandBusiness/  Tierarzt-Liste/  MachDuDas/                      │
+│  $ ls products/live                                                         │
+│  > PrintOnDemandBusiness/  Tierarzt-Liste/  Machdudas/                      │
 │                                                                             │
-│  $ cat stack.txt                                                            │
-│  > Whatever gets the job done (AI-generated & human-verified)               │
+│  $ ls lab/agent-infra                                                       │
+│  > rexd/  opencode-rexd-target/  cognitive-microkernel/                     │
 │                                                                             │
-│  $ ./build.sh                                                               │
-│  > Building scalable products... ✓                                          │
+│  $ cat mode.txt                                                             │
+│  > Ship small, useful systems. Measure reality. Iterate.                    │
 │                                                                             │
 └─────────────────────────────────────────────────────────────────────────────┘
 </pre>
@@ -23,21 +23,24 @@
 <h1 align="center">Samir Alibabic</h1>
 
 <p align="center">
-  <b>Software Engineer & Solo Founder (Germany)</b><br/>
-  I build and operate software products end-to-end — code, data, SEO, distribution.
+  <b>Software engineer, founder/operator, Munich</b><br/>
+  I build and run focused software products across directories, data systems, automation, and AI-assisted workflows.
 </p>
 
 <p align="center">
   <a href="https://www.samiralibabic.com">
     <img src="https://img.shields.io/badge/Start%20here-samiralibabic.com-111111?style=flat" alt="samiralibabic.com" />
   </a>
-  <a href="https://www.samiralibabic.de">
-    <img src="https://img.shields.io/badge/DE-samiralibabic.de-111111?style=flat" alt="samiralibabic.de" />
+  <a href="https://www.samiralibabic.com/products">
+    <img src="https://img.shields.io/badge/Products-live-111111?style=flat" alt="Products" />
+  </a>
+  <a href="https://www.samiralibabic.com/proof">
+    <img src="https://img.shields.io/badge/Proof-metrics-111111?style=flat" alt="Proof" />
   </a>
   <a href="https://x.com/samiralibabic">
     <img src="https://img.shields.io/badge/X-@samiralibabic-111111?style=flat" alt="X" />
   </a>
-  <a href="https://linkedin.com/in/samiralibabic">
+  <a href="https://www.linkedin.com/in/samiralibabic/">
     <img src="https://img.shields.io/badge/LinkedIn-samiralibabic-111111?style=flat" alt="LinkedIn" />
   </a>
 </p>
@@ -45,51 +48,57 @@
 <p align="center">
   <img src="https://img.shields.io/github/followers/samiralibabic?label=followers&style=flat" alt="followers" />
   <img src="https://img.shields.io/github/stars/samiralibabic?affiliations=OWNER%2CCOLLABORATOR&label=stars&style=flat" alt="stars" />
-  <img src="https://img.shields.io/github/last-commit/samiralibabic/samiralibabic?label=profile%20readme%20updated&style=flat" alt="updated" />
+  <img src="https://img.shields.io/github/last-commit/samiralibabic/samiralibabic?label=profile%20updated&style=flat" alt="updated" />
 </p>
 
 ---
 
-## Flagship products
+## What I Build
 
-### 🧩 PrintOnDemandBusiness (PODB)
-Directory to find & compare print-on-demand suppliers by products, print methods, integrations, shipping regions, and facility locations.  
-→ https://www.printondemandbusiness.com
+I like businesses where code, data, search, and distribution reinforce each other. Most of my work is practical: directories, internal tools, crawlers, automation, remote execution, and AI workflows that make small teams more capable.
 
-### 🐾 Tierarzt-Liste
-Veterinary directory for Germany — structured listings, local discovery, and emergency-focused info.  
-→ https://tierarzt-liste.de
+### Live Products
 
-### 🚀 Print2Social
-SaaS for automating social media for print-on-demand sellers (AI-assisted workflows).  
-→ https://print2social.com
+| Product | What it does | Link |
+| --- | --- | --- |
+| Print On Demand Business | Directory for comparing print-on-demand suppliers by products, print methods, integrations, shipping regions, and facilities. | [printondemandbusiness.com](https://www.printondemandbusiness.com) |
+| Tierarzt-Liste | Veterinary directory for Germany with local discovery and emergency-focused information. | [tierarzt-liste.de](https://tierarzt-liste.de) |
+| Machdudas | German marketplace for home-office jobs, remote jobs, and services. | [machdudas.de](https://www.machdudas.de) |
+
+### Open Source / Lab
+
+| Project | Focus | Link |
+| --- | --- | --- |
+| REXD | Lightweight remote execution and filesystem plane for agentic runtimes. | [samiralibabic/rexd](https://github.com/samiralibabic/rexd) |
+| opencode-rexd-target | OpenCode plugin for routing tools to remote REXD targets over SSH. | [samiralibabic/opencode-rexd-target](https://github.com/samiralibabic/opencode-rexd-target) |
+| opencode-session-navigation | Vim-like navigation mode for the OpenCode TUI session view. | [samiralibabic/opencode-session-navigation](https://github.com/samiralibabic/opencode-session-navigation) |
+| cognitive-microkernel | Experimental stateless cortex coordinating persistent LLM-backed organs. | [samiralibabic/cognitive-microkernel](https://github.com/samiralibabic/cognitive-microkernel) |
 
 ---
 
-## Work with me
-If you want to partner, integrate, or sponsor: please start on the website (context + links), then reach out.
+## Current Focus
 
-- Website: https://www.samiralibabic.com (EN) / https://www.samiralibabic.de (DE)
-- Email: `kontakt (at) samiralibabic.de`
-
----
-
-## Stack
 <pre>
 ┌─────────────────────────────────────────────────────────────────────────────────┐
-│  ~ $ reveal_approach                                                 │  ● ● ●   │
+│  ~ $ reveal_focus                                                              │
 ├─────────────────────────────────────────────────────────────────────────────────┤
 │                                                                                 │
-│  [SCOPE]     🧭 Domains      SaaS • Data Systems • Automation • AI Ops          │
-│  [THINK]     🧠 Approach     Systems first • Interfaces second                  │
-│  [DESIGN]    🏗 Principle    Simple by default • Composable when needed         │
-│  [BUILD]     🔨 Capability   Products • Pipelines • Internal tools              │
-│  [OPERATE]    ⚙ Execution    Deployable • Observable • Maintainable             │
-│  [AUTOMATE]  🤖 Leverage     Agents • Workflows • Local-first AI                │
-│  [RESULT]    ✅ Outcome      Useful software that survives contact with reality │
-│                                                                                 │
-│  ─────────────────────────────────────────────────────────────────────────────  │
-│  [MODE]      ⌁ Runtime       Editor • Shell • Containers • APIs • Databases     │
+│  [PRODUCTS]   Directories, marketplaces, proof pages, sponsorship inventory      │
+│  [DATA]       Crawlers, structured datasets, monitoring, analytics              │
+│  [AGENTS]     Remote tool planes, local-first AI workflows, durable memory       │
+│  [OPS]        Deployable, observable, maintainable systems                      │
+│  [STYLE]      Simple by default, composable when the pressure is real            │
 │                                                                                 │
 └─────────────────────────────────────────────────────────────────────────────────┘
 </pre>
+
+---
+
+## Work With Me
+
+If you want to use a product, sponsor a placement, discuss a deal, or collaborate on agent infrastructure, start here:
+
+- Website: [samiralibabic.com](https://www.samiralibabic.com)
+- Products: [samiralibabic.com/products](https://www.samiralibabic.com/products)
+- Proof / metrics: [samiralibabic.com/proof](https://www.samiralibabic.com/proof)
+- Email: `kontakt (at) samiralibabic.de`
