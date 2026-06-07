@@ -83,11 +83,11 @@ I like businesses where code, data, search, and distribution reinforce each othe
 │  ~ $ reveal_focus                                                              │
 ├─────────────────────────────────────────────────────────────────────────────────┤
 │                                                                                 │
-│  [PRODUCTS]   Directories, marketplaces, proof pages, sponsorship inventory      │
-│  [DATA]       Crawlers, structured datasets, monitoring, analytics              │
-│  [AGENTS]     Remote tool planes, local-first AI workflows, durable memory       │
-│  [OPS]        Deployable, observable, maintainable systems                      │
-│  [STYLE]      Simple by default, composable when the pressure is real            │
+│  [PRODUCTS]   PODB, Tierarzt-Liste, Machdudas: search, UX, proof, monetization  │
+│  [GROWTH]     Sponsor inventory, buyer/seller flows, landing pages, experiments │
+│  [AGENTS]     REXD, OpenCode plugins, remote tools, PTYs, filesystem access      │
+│  [DATA]       Crawlers, change monitors, structured datasets, analytics loops    │
+│  [OPS]        Small releases, boring deployments, observable systems             │
 │                                                                                 │
 └─────────────────────────────────────────────────────────────────────────────────┘
 </pre>
