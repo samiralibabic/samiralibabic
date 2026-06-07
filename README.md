@@ -46,7 +46,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/samiralibabic?label=followers&style=flat" alt="followers" />
+  <img src="https://img.shields.io/github/followers/samiralibabic?label=followers&style=social" alt="followers" />
   <img src="https://img.shields.io/github/stars/samiralibabic?affiliations=OWNER%2CCOLLABORATOR&label=stars&style=flat" alt="stars" />
   <img src="https://img.shields.io/github/last-commit/samiralibabic/samiralibabic?label=profile%20updated&style=flat" alt="updated" />
 </p>
